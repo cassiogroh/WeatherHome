@@ -17,7 +17,7 @@
 module.exports = {
     apiKey: '5ab387f9a952492eb387f9a952392ec0',
     units: 'm', // Metric system (switch to 'e' for imperial system)
-    numericPreicison: 'decimal',
+    numericPrecison: 'decimal',
     stationsId: [
         'ISANTACA85',
         'ISANTACA56',
